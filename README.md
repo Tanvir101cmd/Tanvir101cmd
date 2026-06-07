@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tanbirul
+=================================================================================================================================
 
-<!--
-**Tanvir101cmd/Tanvir101cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student | DevOps & Linux Enthusiast
+--------------------------------------
 
-Here are some ideas to get you started:
+I love to learn by building things. I run a NixOS home server with self-hosted services and automate server hardening with Ansible. Interested in DevOps, Linux system administration and infrastructure security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Dhaka, Bangladesh
+*   ✉️  You can contact me at [tanbirulislamjj@gmail.com](mailto:tanbirulislamjj@gmail.com)
+*   🚀  I'm currently working on [ansible-linux-baseline](http://github.com/Tanvir101cmd/ansible-linux-baseline)
+*   🧠  I'm currently learning Docker, CI/CD, Networking
+*   👥  I'm looking to collaborate on Linux, DevOps, self-hosted infrastructure projects
